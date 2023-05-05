@@ -1,0 +1,10 @@
+Las metodologías tradicionales son denominadas, a veces, de forma despectiva, como
+metodologías pesadas
+
+Tipos
+
+- Espiral
+- Cascada
+- Prototipo
+- Incremental
+- RAD

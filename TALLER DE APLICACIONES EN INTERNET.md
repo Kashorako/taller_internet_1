@@ -22,5 +22,4 @@ Tipos
 - Lean, 
 - XP (eXtreme Programming)
 - Crystal.
-
 Estas metodologías se caracterizan por su enfoque iterativo e incremental, la autoorganización de los equipos, la priorización del trabajo y la retroalimentación continua para mejorar el proceso.
